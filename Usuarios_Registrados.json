@@ -17,7 +17,21 @@
         "username": "maggie",
         "password": "maggie",
         "victorias_defensor": 0,
-        "victorias_atacante": 0,
+        "victorias_atacante": 2,
         "nombre": "Maggie"
+    },
+    "noe": {
+        "username": "noe",
+        "password": "noe",
+        "victorias_defensor": 0,
+        "victorias_atacante": 2,
+        "nombre": "Noe"
+    },
+    "noelia": {
+        "username": "noelia",
+        "password": "1234",
+        "victorias_defensor": 0,
+        "victorias_atacante": 0,
+        "nombre": "mimi"
     }
 }
